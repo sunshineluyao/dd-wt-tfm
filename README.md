@@ -10,12 +10,12 @@
 | ------------- |:-------------:| 
 | Data     | https://github.com/sunshineluyao/portfolio/tree/main/code| 
 | Code     | https://github.com/sunshineluyao/portfolio/tree/main/code |   
-| Spotligh| https://github.com/sunshineluyao/portfolio/tree/main/spotlight|   
+| Spotlight| https://github.com/sunshineluyao/portfolio/tree/main/spotlight|   
 
 
 
 ## Data
-- Data Source: https://github.com/SciEcon/SoK_Blockchain_Decentralization
+- Data Source: 
 - Queried Data
 - Processed Data
 - ...
